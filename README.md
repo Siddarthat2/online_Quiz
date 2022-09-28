@@ -1,1 +1,2 @@
-# online_Quiz
+# online-exam
+A simple nodejs based online exam app
